@@ -1,4 +1,6 @@
 ## Hi there 👋
+Computer Science student passionate about coding and problem-solving. 
+I enjoy building projects in C++ and Java and learning how software works behind the scenes.
 
 <!--
 **XaguilarLeon/XaguilarLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
